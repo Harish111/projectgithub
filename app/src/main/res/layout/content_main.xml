@@ -22,4 +22,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text1"/>
+        
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:text="@string/text1"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:text="@string/text1"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="50dp"
+        android:text="@string/text1"/>
+        
 </LinearLayout>
